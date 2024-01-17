@@ -284,3 +284,8 @@ footer{
 .line2{
     width: 332px;
 }
+@media screen and (max-width:600px) {
+    body{
+        flex-direction: column;
+    }
+}
